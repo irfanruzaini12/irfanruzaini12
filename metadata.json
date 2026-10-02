@@ -1,0 +1,6 @@
+{
+  "name": "Pure Camera",
+  "description": "Minimalist UI-free camera app featuring smooth zoom, double-tap photo capture auto-enhanced with AI to iPhone 17 Pro Max quality, and long-press video recording saved directly to gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
